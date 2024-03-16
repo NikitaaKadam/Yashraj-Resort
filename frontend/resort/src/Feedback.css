@@ -1,0 +1,13 @@
+.feed{
+    cursor: 'pointer';
+    font-size: 40px;
+}
+
+.comm{
+    margin-left: 100px;
+    width: 200px;
+}
+
+.rate{
+    margin-right: 30px;
+}

@@ -1,0 +1,16 @@
+.login{
+    background-image: linear-gradient(to top, #a8edea 0%, #fed6e3 100%);
+  }
+
+.signup{
+    background-image: linear-gradient(to top, #a8edea 0%, #fed6e3 100%);
+}
+
+.drpdwn{
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.drpdwn-list{
+  width: 200px;
+}
